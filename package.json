@@ -1,0 +1,26 @@
+{
+ “name”: “intento”,
+ “version”: “1.0.0”,
+ “description”: “A basic calculator in nodeJS”,
+ “main”: “holo.html”,
+ “scripts”: {
+ “test”: “test”
+ },
+ “repository”: {
+ “type”: “git”,
+ “url”: “git+https://github.com/juancgv97/intento1"
+ },
+ “poligran”: “poli”,
+ “license”: “ISC”,
+ “bugs”: {
+ “url”: “https://github.com/diegopm2000/CalculatorNodeJS/issues"
+ },
+ “homepage”: “https://github.com/juancgv97/intento1#holo"
+}
+“devDependencies”: {
+ “chai”: “⁴.1.2”,
+ “mocha”: “⁴.0.1”
+ }
+ “scripts”: {
+ “test”: “mocha”
+ }
