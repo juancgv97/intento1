@@ -1,5 +1,4 @@
-language: java
-jdk:
-  - oraclejdk8
-
-script: build
+language: php
+sudo: false
+php:
+  - '5.4'
